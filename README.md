@@ -48,5 +48,3 @@ flask db upgrade
 - Y corremos el backend
 
 flask run
-
-# Comentario de prueba
